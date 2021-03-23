@@ -19,7 +19,9 @@ public class Calculator {
 	}
 	public static int square(int n1){
 		return n1*n1;
-
+	}
+	public static int fours(int n1){
+		return n1*n1*n1*n1;
 	}
 	public static void main(String[] args) {
 		System.out.println("Calculator");
