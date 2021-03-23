@@ -22,6 +22,10 @@ public class Calculator {
 		return n1*n1*n1*n1;
 
 	}
+	public static int fives(int n1){
+		return n1*n1*n1*n1*n1;
+
+	}
 	public static void main(String[] args) {
 		System.out.println("Calculator");
 	}
