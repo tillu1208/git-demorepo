@@ -26,6 +26,9 @@ public class Calculator {
 		return n1*n1*n1*n1*n1;
 
 	}
+	public static void masterfun(String name){
+		System.out.println(name);
+	}
 	public static void main(String[] args) {
 		System.out.println("Calculator");
 	}
