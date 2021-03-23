@@ -40,6 +40,10 @@ public class Calculator {
 		System.out.println(name);
 
 	}
+	public static void masterfun4(String name){
+		System.out.println(name);
+
+	}
 	public static void main(String[] args) {
 		System.out.println("Calculator");
 	}
