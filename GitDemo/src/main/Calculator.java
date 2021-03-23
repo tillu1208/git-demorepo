@@ -29,8 +29,12 @@ public class Calculator {
 	public static void masterfun(String name){
 		System.out.println(name);
 	}
+	public static void brfun(String name){
+		System.out.println("Branch"+name);
+  }
 	public static void masterfun2(String name){
 		System.out.println(name);
+
 	}
 	public static void main(String[] args) {
 		System.out.println("Calculator");
